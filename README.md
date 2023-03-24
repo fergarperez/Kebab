@@ -1,2 +1,2 @@
-<a href="https://fergarperez.github.io/Kebab/"><input type="button"><h1>Kebab</h1></a>
+<h1><a href="https://fergarperez.github.io/Kebab/"><input type="button">Kebab</a></h1>
 This is a non functional website that has been designed by me, it is inspirated in a kebab website
